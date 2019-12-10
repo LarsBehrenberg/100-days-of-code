@@ -15,4 +15,16 @@
 
 **Thoughts**: I found this website a few weeks ago, but then forgot about it until yesterday. First two challenges went well, but I gotta catch up.
 
-**Link(s) to work**: [Advent of Code](https://adventofcode.com/)
+**Link(s) to work**: [Advent of Code - Day 1](https://adventofcode.com/2019/day/1)
+
+
+### Day 2: December 10, 2019
+
+**Today's Progress**: Finished second day of Advent of Code
+
+**Thoughts**: Started putting my solutions to the [Advent of Code](https://adventofcode.com/) on github. The second part of the 2nd day was a little more challenging, but overall still going well. I gotta start doing two a day to catch up until christmas.
+
+**Link(s) to work**: 
+1. [Advent of Code - Day 2](https://adventofcode.com/2019/day/2)
+2. [9 Projects to master in 2020](https://medium.com/better-programming/9-projects-you-can-do-to-become-a-front-end-master-in-2020-97577110cca1)
+
