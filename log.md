@@ -28,3 +28,13 @@
 1. [Advent of Code - Day 2](https://adventofcode.com/2019/day/2)
 2. [9 Projects to master in 2020](https://medium.com/better-programming/9-projects-you-can-do-to-become-a-front-end-master-in-2020-97577110cca1)
 
+
+### Day 3: December 11, 2019
+
+**Today's Progress**: Read up on static site generators
+
+**Thoughts**:  Decided to turn my clients wordpress site into a static site for performance and simplicity reasons, so I spend today reading up on Gatsby.js and Next.js, quickly deciding on Gatsby and will start on redesigning the site in the next couple days.
+
+**Link(s) to work**: 
+1. [Gatsby vs Next.JS](https://dev.to/jameesy/gatsby-vs-next-js-what-why-and-when-4al5)
+2. [Gatsby - Building Themes](https://www.gatsbyjs.org/docs/themes/building-themes/)
