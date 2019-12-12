@@ -33,8 +33,17 @@
 
 **Today's Progress**: Read up on static site generators
 
-**Thoughts**:  Decided to turn my clients wordpress site into a static site for performance and simplicity reasons, so I spend today reading up on Gatsby.js and Next.js, quickly deciding on Gatsby and will start on redesigning the site in the next couple days.
+**Thoughts**: Decided to turn my clients wordpress site into a static site for performance and simplicity reasons, so I spend today reading up on Gatsby.js and Next.js, quickly deciding on Gatsby and will start on redesigning the site in the next couple days.
 
 **Link(s) to work**: 
 1. [Gatsby vs Next.JS](https://dev.to/jameesy/gatsby-vs-next-js-what-why-and-when-4al5)
 2. [Gatsby - Building Themes](https://www.gatsbyjs.org/docs/themes/building-themes/)
+
+
+### Day 4: December 12, 2019
+
+**Today's Progress**: Reading more on Gatsby themes and creating the starter
+
+**Thoughts**: Gatsby seems straight forward, but GraphQl will need some time to get used to.
+
+**Link(s) to work**: [Gatsby Starter project](https://github.com/LarsBehrenberg/testing-projects/tree/master/hello-world)
