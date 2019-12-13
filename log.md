@@ -46,4 +46,13 @@
 
 **Thoughts**: Gatsby seems straight forward, but GraphQl will need some time to get used to.
 
-**Link(s) to work**: [Gatsby Starter project](https://github.com/LarsBehrenberg/testing-projects/tree/master/hello-world)
+**Link(s) to work**: [Gatsby hello-world starter project](https://github.com/LarsBehrenberg/testing-projects/tree/master/gatsby-hello-world)
+
+
+### Day 5: December 13, 2019
+
+**Today's Progress**: Finished the Gatsby section on styling using css modules and nested components & started on the GraphQL section
+
+**Thoughts**: I haven't come across css modules so far and it seems like it will really come in handy. If you have coded with React nested components will be familiar. I haven't worked with GraphQL or SQL so far, so this will take some time to get used to, but I am looking forward to it, so I can eventually do some Wordpress coding as well.
+
+**Link(s) to work**: [Gatsby GraphQL project](https://github.com/LarsBehrenberg/testing-projects/tree/master/gatsby-graphql)
