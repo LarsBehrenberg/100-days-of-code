@@ -56,3 +56,12 @@
 **Thoughts**: I haven't come across css modules so far and it seems like it will really come in handy. If you have coded with React nested components will be familiar. I haven't worked with GraphQL or SQL so far, so this will take some time to get used to, but I am looking forward to it, so I can eventually do some Wordpress coding as well.
 
 **Link(s) to work**: [Gatsby GraphQL project](https://github.com/LarsBehrenberg/testing-projects/tree/master/gatsby-graphql)
+
+
+### Day 6: December 14, 2019
+
+**Today's Progress**: Finished Gatsby GraphQL & Plugins section and 
+
+**Thoughts**: Starting to getting the hang of it. Will finish the Tutorial tomorrow and then start working on my own projects with it the next few days. Looking forward to that!
+
+**Link(s) to work**: [Gatsby GraphQL project](https://www.gatsbyjs.org/tutorial/part-seven/)
