@@ -65,3 +65,22 @@
 **Thoughts**: Starting to getting the hang of it. Will finish the Tutorial tomorrow and then start working on my own projects with it the next few days. Looking forward to that!
 
 **Link(s) to work**: [Gatsby GraphQL project](https://www.gatsbyjs.org/tutorial/part-seven/)
+
+
+### Day 7: December 15, 2019
+
+**Today's Progress**: Finished Gatsby starter tutorial
+
+**Thoughts**: Gatsby seems pretty versatile, but less than Next.js? I will have to try it more to see the advantages and disadvantages of both.
+
+**Link(s) to work**: [Last part of the Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-eight/)
+
+
+### Day 8: December 16, 2019
+
+**Today's Progress**: Resetting computer
+
+**Thoughts**: After having some troubles lately, I decided to reset my macbook. During the reinstall I read some articles and worked on how I wanna improve my general coding environment. Also learnt about diskutil commands in terminal on mac.
+
+**Link(s) to work**: *none*
+
