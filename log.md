@@ -84,3 +84,16 @@
 
 **Link(s) to work**: *none*
 
+
+### Day 9: December 17, 2019
+
+**Today's Progress**: Setting up the basics for gatsby project
+
+**Thoughts**: A client of mine has currently his site on wordpress, but the perfomance is slow and he wants something simpler than wordpress. Since his website is fairly small, I am going to try and replicate the design in Gatsby with Netlify CMS, so the client can go in and change text/pictures easily. Today I got the basic setup going and started to replicate the index site. I am going off of the  It's still a long way from here. But looking forward to it.
+
+**Link(s) to work**: [https://github.com/LarsBehrenberg/tfbs-website](https://github.com/LarsBehrenberg/tfbs-website)
+
+**Article(s) I read**: 
+1. [Configuration ZSH](https://www.freecodecamp.org/news/how-to-configure-your-macos-terminal-with-zsh-like-a-pro-c0ab3f3c1156/)
+2. [Gatsby & Netlify CMS](https://www.gatsbyjs.org/docs/sourcing-from-netlify-cms/)
+
