@@ -97,3 +97,11 @@
 1. [Configuration ZSH](https://www.freecodecamp.org/news/how-to-configure-your-macos-terminal-with-zsh-like-a-pro-c0ab3f3c1156/)
 2. [Gatsby & Netlify CMS](https://www.gatsbyjs.org/docs/sourcing-from-netlify-cms/)
 
+
+### Day 10, December 18, 2019
+
+**Today's Progress**: Implemented Layout for Gatsby Blog project
+
+**Thoughts**: For practice I decided to work on a gatsby blog starter that I am planning to upload to the offical gatsby starter collection.
+
+**Link(s) to work**: [Gatsby starter project repo](https://github.com/LarsBehrenberg/testing-projects/tree/master/gatsby-graphql)
