@@ -105,3 +105,12 @@
 **Thoughts**: For practice I decided to work on a gatsby blog starter that I am planning to upload to the offical gatsby starter collection.
 
 **Link(s) to work**: [Gatsby starter project repo](https://github.com/LarsBehrenberg/testing-projects/tree/master/gatsby-graphql)
+
+
+### Day 11-12, December 19-20, 2019
+
+**Today's Progress**: Created Blog
+
+**Thoughts**: The last two days I spent uploading and connecting my blog with a first post. I haven't coded it myself, but made a few changes to the design. Just wanted to start posting stuff until I create my own completed blog. One thing I have noticed is that I would start coding for an hour, but then end up deleting the code that I worked on for an hour, just because I didn't like it in the end.. I will try and set a goal for what I want to achieve during that hour everyday from now on, maybe that will help.
+
+**Link(s) to work**: [blog.larsbehrenberg.com](https://blog.larsbehrenberg.com/)
