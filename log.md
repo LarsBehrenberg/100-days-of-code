@@ -114,3 +114,12 @@
 **Thoughts**: The last two days I spent uploading and connecting my blog with a first post. I haven't coded it myself, but made a few changes to the design. Just wanted to start posting stuff until I create my own completed blog. One thing I have noticed is that I would start coding for an hour, but then end up deleting the code that I worked on for an hour, just because I didn't like it in the end.. I will try and set a goal for what I want to achieve during that hour everyday from now on, maybe that will help.
 
 **Link(s) to work**: [blog.larsbehrenberg.com](https://blog.larsbehrenberg.com/)
+
+
+### Day 13: December 21, 2019
+
+**Today's Progress**: Finished setting up the server with express.js for my FaceRecognitionAPIProject built with react
+
+**Thoughts**: I need to focus on one thing at a time. So for today I finished setting up the express server for the FaceRecognitionAPIProject built with React, I have started a while ago and really needs to be finished. Tomorrow working on connecting the server to front-end.
+
+**Link(s) to work**: [FaceRecognitionAPIProject](https://github.com/LarsBehrenberg/ZeroToMastery-Projects/tree/master/face-recognition)
